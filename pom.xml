@@ -1,0 +1,15 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>io.github.pangaia</groupId>
+    <artifactId>toxic_hunter</artifactId>
+    <version>1</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.github.almasb</groupId>
+            <artifactId>fxgl</artifactId>
+            <version>21.1</version>
+        </dependency>
+    </dependencies>
+</project>
